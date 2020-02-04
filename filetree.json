@@ -1,0 +1,79 @@
+[
+    {
+        "name": "root",
+        "type": "folder",
+        "children": [
+            {
+                "name": "Documents",
+                "type": "folder",
+                "children": [
+                    {
+                        "name": "aaa.txt",
+                        "type": "file",
+                        "size": 6262                
+                    },
+                     {
+                        "name": "bbb.txt",
+                        "type": "file",
+                        "size": 728                
+                    },
+                    {
+                        "name": "ccc.txt",
+                        "type": "file",
+                        "size": 82382                
+                    },
+                    {
+                        "name": "Subfolder",
+                        "type": "folder",
+                        "children": [
+                            {
+                                "name": "uuu.txt",
+                                "type": "file",
+                                "size": 728                
+                            },
+                            {
+                                "name": "Subfolder 2",
+                                "type": "folder",
+                                "children": [
+                                    {
+                                        "name": "Subfolder 3",
+                                        "type": "folder",
+                                        "children": [
+                                            {
+                                                "name": "hhwj.txt",
+                                                "type": "file",
+                                                "size": 72828                
+                                            },
+                                            {
+                                                "name": "uiwe.txt",
+                                                "type": "file",
+                                                "size": 91828                
+                                            }
+                                        ]                   
+                                    }
+                                ]                   
+                            }
+                        ]                   
+                    }
+                ]                   
+            },
+            {
+                "name": "Images",
+                "type": "folder",
+                "children": [
+                    {
+                        "name": "hsjs.jpg",
+                        "type": "file",
+                        "size": 28276                
+                    },
+                    {
+                        "name": "72728.jpg",
+                        "type": "file",
+                        "size": 28276                
+                    }
+                ]                   
+            }
+        ]
+    }
+    
+]
